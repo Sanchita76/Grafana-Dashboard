@@ -76,6 +76,12 @@ Variables at the top: **HTTP method** and **Traffic type** (human / bot / unknow
 docker compose down        # stop (keeps data)
 docker compose down -v     # stop and delete all data
 ```
+## Dashboard
+
+<img width="988" height="910" alt="Screenshot 2026-10-05 020600" src="https://github.com/user-attachments/assets/1a54101f-e128-4e7d-b0b8-d498ab4a1948" />
+
+<img width="990" height="912" alt="Screenshot 2026-10-05 020607" src="https://github.com/user-attachments/assets/54927e76-51c4-45eb-ba0f-73fbf0764c64" />
+
 
 ## Troubleshooting
 | Problem | Fix |
