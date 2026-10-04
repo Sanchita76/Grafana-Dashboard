@@ -1,0 +1,12 @@
+@"
+venv/
+.sf/
+__pycache__/
+*.pyc
+.env
+"@ | Out-File -Encoding utf8 .gitignore
+
+git add .
+git commit -m "Initial commit"
+git push -u origin maindata/access.log
+data/access.log
